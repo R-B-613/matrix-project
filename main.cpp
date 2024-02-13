@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//submitted by Shira Asaraf , Tamar Nahum , Rina Biniashvili
+
 int main() {
 
     int size;
